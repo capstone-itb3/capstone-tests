@@ -1,0 +1,16 @@
+{
+  "name": "real-time-collab-coding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo npm\"Error: no test specified\" && exit 1",
+    "dev": "index.ts"
+  },
+  "author": "Romar Llegue",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.4.3"
+  }
+}
